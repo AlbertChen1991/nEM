@@ -7,4 +7,6 @@ This work focuses on the noisy-label problem in distant supervision, while most 
 
 ![image](https://github.com/AlbertChen1991/nEM/blob/master/fig/noise.png)
 
-<img align="center" src="https://github.com/AlbertChen1991/nEM/blob/master/fig/noise.png">
+<p align="center">
+  <img width="600" height="200" src="https://github.com/AlbertChen1991/nEM/blob/master/fig/noise.png">
+</p>
