@@ -8,3 +8,5 @@ This work focuses on the noisy-label problem in distant supervision, while most 
 <p align="center">
   <img src="https://github.com/AlbertChen1991/nEM/blob/master/fig/noise.png">
 </p>
+
+In distant supervision, one attempts to connect labels of a bag (left side in the figure) with relations of the knowledge graphs (right side in the figure). The ground-truth labels (center in the figure) however can not be seen. The noise occurs due to the gap between the bags and the knowledge graphs. 
