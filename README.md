@@ -65,6 +65,10 @@ The models are implemented using [Pytorch](https://pytorch.org/).
 + E-step: computing a distribution on groud-truth labels.
 + M-step: updating model parameters through maxmizing the lower bound using gradient descent method.
 
+## Training and Evaluation
+Please first download the data.zip file from the above given links. Then unzip the data.zip file to the model's directory.
+
++ Training: run __sh run_RE.sh__ for baseline models or __sh run_EM.sh__ for nEM models.
 
 ## References
 
