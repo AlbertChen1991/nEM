@@ -46,4 +46,4 @@ The Riedel dataset (Riedel et al., 2010) used in this paper is publicly availabl
 
 [Jiang et al., 2016] Xiaotian Jiang, Quan Wang, Peng Li, Bin Wang. Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. In Proceedings of COLING.
 
-[Zhang et al., 2016] Yuhao Zhang, Victor Zhong, Danqi Chen, Gabor Angeli, Christopher D. Manning. Position-aware Attention and Supervised Data Improve Slot Filling. In Proceedings of EMNLP.
+[Zhang et al., 2017] Yuhao Zhang, Victor Zhong, Danqi Chen, Gabor Angeli, Christopher D. Manning. Position-aware Attention and Supervised Data Improve Slot Filling. In Proceedings of EMNLP.
