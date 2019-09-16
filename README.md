@@ -73,6 +73,8 @@ Please first download the __data.zip__ file from the above given links. Then unz
 
 Please refer to the __main.py__ file for detailed parameters configurations.
 
+You are welcomed to contact us if you are interested in our work or you have any questions about it. The author's email is [chenjf@act.buaa.edu.cn](chenjf@act.buaa.edu.cn)
+
 ## References
 
 [Riedel et al., 2010] Sebastian Riedel, Limin Yao, Andrew McCallum. Modeling Relations and Their Mentions without Labeled Text. In Proceedings of ECMLPKDD.
