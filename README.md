@@ -25,11 +25,18 @@ The Riedel dataset (Riedel et al., 2010) used in this paper is publicly availabl
 
 + relation2id.txt: all relations and corresponding ids, one per line.
 
++ word2id.txt: words in the vocabulary and corresponding ids, one per line.
+
++ vec.txt: the pre-train word embedding file provided by (Lin et al., 2016).
+
++ word_embed.npy: the word embeddings for each word in the vocabulary.
+
 + train.txt: training set, format (fb_mid_e1, fb_mid_e2, e1_name, e2_name, relation, sentence).
 
 + test.txt: original test set, same format as train.txt.
 
-+ vec.bin: the pre-train word embedding file
++ manualTest.txt: the manually labeled test set.
+
 
 ## References
 [Lin et al., 2016] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. Neural Relation Extraction with Selective Attention over Instances. In Proceedings of ACL.
