@@ -45,7 +45,7 @@ The models are implemented using [Pytorch](https://pytorch.org/).
 
 + model.py: implemented models, including sentence encoder, sentence selector, nEM framework.
 
-+ main.py: model training and evaluation. Parameters setting.
++ main.py: model training and evaluation. Parameters' setting.
 
 + run_RE.sh: the shell commands for baseline models' training and testing.
 
@@ -71,7 +71,7 @@ Please first download the __data.zip__ file from the above given links. Then unz
 + Training: run __sh run_RE.sh__ for baseline models or __sh run_EM.sh__ for nEM models.
 + Test: modify the __--run_mode train__ in the corresponding shell file to __--run_mode test__ and run.
 
-Please refer to the __main.py__ file for detailed parameters configurations.
+Please refer to the __main.py__ file for detailed parameters' configurations.
 
 You are welcomed to contact us if you are interested in our work or you have any questions about it. The author's E-mail is [chenjf@act.buaa.edu.cn](chenjf@act.buaa.edu.cn)
 
