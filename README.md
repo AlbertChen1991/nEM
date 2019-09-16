@@ -66,9 +66,10 @@ The models are implemented using [Pytorch](https://pytorch.org/).
 + M-step: updating model parameters through maxmizing the lower bound using gradient descent method.
 
 ## Training and Evaluation
-Please first download the data.zip file from the above given links. Then unzip the data.zip file to the model's directory.
+Please first download the __data.zip__ file from the above given links. Then unzip the data.zip (the entire directory) to the model's directory.
 
 + Training: run __sh run_RE.sh__ for baseline models or __sh run_EM.sh__ for nEM models.
++ Test: modify the __--run_mode train__ in the corresponding shell file to __--run_mode test__ and run the shell file.
 
 ## References
 
