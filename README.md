@@ -19,5 +19,6 @@ We proposed a nEM framework to deal with the noisy-label problem. We manually la
 
 ## References
 [Lin et al., 2016] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. Neural Relation Extraction with Selective Attention over Instances. In Proceedings of ACL.
+
 [Jiang et al., 2016] Xiaotian Jiang, Quan Wang, Peng Li, Bin Wang. Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. In Proceedings of COLING.
 
