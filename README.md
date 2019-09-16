@@ -20,6 +20,20 @@ We proposed a nEM framework to deal with the noisy-label problem. We manually la
 ## Dataset
 The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset in addition to our manually labeled test set (data.zip). You can download it from this [Google Drive link](https://drive.google.com/drive/folders/1u2HVCYoJcV5SiFcmrP0yEIn5E5tJ6Mbg?usp=sharing) or this [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw). With regard to the TACRED dataset, please refer to (Zhang et al., 2017).
 
+## Code
+The models are implemented using [Pytorch](https://pytorch.org/). 
+
+### Files
++ data_loader.py: data processing.
+
++ model.py: implemented models, including sentence encoder, sentence selector, nEM framework.
+
++ main.py: model training and evaluation. Parameters setting.
+
++ run_RE.sh: the shell commands for baseline models' training and testing.
+
++ run_EM.sh: the shell commands for nEM model's training and testing.
+
 ### Files in data.zip
 + entity2id.txt: all entities and corresponding ids, one per line.
 
