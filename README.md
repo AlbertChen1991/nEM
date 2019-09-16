@@ -18,10 +18,12 @@ We proposed a nEM framework to deal with the noisy-label problem. We manually la
 </p>
 
 ## Dataset
-The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset. You can download from this [Google Drive link](aaa.com) or [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw)
+The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset. You can download it from this [Google Drive link](aaa.com) or [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw)
 
 ## References
 [Lin et al., 2016] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. Neural Relation Extraction with Selective Attention over Instances. In Proceedings of ACL.
 
 [Jiang et al., 2016] Xiaotian Jiang, Quan Wang, Peng Li, Bin Wang. Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. In Proceedings of COLING.
+
+[Riedel et al., 2010] Sebastian Riedel, Limin Yao, Andrew McCallum. Modeling Relations and Their Mentions without Labeled Text. In Proceedings of ECMLPKDD.
 
