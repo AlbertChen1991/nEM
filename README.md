@@ -33,7 +33,7 @@ The Riedel dataset (Riedel et al., 2010) used in this paper is publicly availabl
 
 + train.txt: training set, format (fb_mid_e1, fb_mid_e2, e1_name, e2_name, relation, sentence).
 
-+ test.txt: original test set, same format as train.txt.
++ test.txt: the original test set, same format as train.txt.
 
 + manualTest.txt: the manually labeled test set.
 
