@@ -51,6 +51,16 @@ The models are implemented using [Pytorch](https://pytorch.org/).
 
 + run_EM.sh: the shell commands for nEM model's training and testing.
 
+### Sentence Encoders
++ CNN encoder.
++ GRU encoder.
++ PCNN encoder.
+
+### Sentence Selectors
++ MEAN selector (Lin et al., 2016).
++ MAX selector (Jiang et al., 2016).
++ ATT selector (Lin et al., 2016). Note that our implemented attention-selector (refer to as multi-relational attention selector) is different from that one in (Lin et al., 2016). 
+
 
 ## References
 
