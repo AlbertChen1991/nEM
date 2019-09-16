@@ -18,7 +18,7 @@ We proposed a nEM framework to deal with the noisy-label problem. We manually la
 </p>
 
 ## Dataset
-The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset in addition to our manually labeled test set (data.zip). You can download it from this [Google Drive link](aaa.com) or this [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw).
+The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset in addition to our manually labeled test set (data.zip). You can download it from this [Google Drive link](aaa.com) or this [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw). With regard to the TACRED dataset, please refer to (Zhang et al., 2017).
 
 ### Files in data.zip
 + entity2id.txt: all entities and corresponding ids, one per line.
@@ -39,9 +39,11 @@ The Riedel dataset (Riedel et al., 2010) used in this paper is publicly availabl
 
 
 ## References
+
+[Riedel et al., 2010] Sebastian Riedel, Limin Yao, Andrew McCallum. Modeling Relations and Their Mentions without Labeled Text. In Proceedings of ECMLPKDD.
+
 [Lin et al., 2016] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. Neural Relation Extraction with Selective Attention over Instances. In Proceedings of ACL.
 
 [Jiang et al., 2016] Xiaotian Jiang, Quan Wang, Peng Li, Bin Wang. Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. In Proceedings of COLING.
 
-[Riedel et al., 2010] Sebastian Riedel, Limin Yao, Andrew McCallum. Modeling Relations and Their Mentions without Labeled Text. In Proceedings of ECMLPKDD.
-
+[Zhang et al., 2016] Yuhao Zhang, Victor Zhong, Danqi Chen, Gabor Angeli, Christopher D. Manning. Position-aware Attention and Supervised Data Improve Slot Filling. In Proceedings of EMNLP.
