@@ -61,6 +61,10 @@ The models are implemented using [Pytorch](https://pytorch.org/).
 + MAX selector (Jiang et al., 2016).
 + ATT selector (Lin et al., 2016). Note that our implemented attention-selector (refer to as multi-relational attention selector) is different from that one in (Lin et al., 2016). 
 
+### The nEM Framework
++ E-step: computing a distribution on groud-truth labels.
++ M-step: updating model parameters through maxmizing the lower bound using gradient descent method.
+
 
 ## References
 
