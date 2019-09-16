@@ -17,6 +17,9 @@ We proposed a nEM framework to deal with the noisy-label problem. We manually la
   <img src="https://github.com/AlbertChen1991/nEM/blob/master/fig/PR_curve.png">
 </p>
 
+## Dataset
+The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset. You can download from this [Google Drive link](aaa.com) or [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw)
+
 ## References
 [Lin et al., 2016] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. Neural Relation Extraction with Selective Attention over Instances. In Proceedings of ACL.
 
