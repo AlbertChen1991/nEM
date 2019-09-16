@@ -18,7 +18,7 @@ We proposed a nEM framework to deal with the noisy-label problem. We manually la
 </p>
 
 ## Dataset
-The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset in addition to our manually labeled test set (data.zip). You can download them from this [Google Drive link](aaa.com) or this [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw).
+The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset in addition to our manually labeled test set (data.zip). You can download it from this [Google Drive link](aaa.com) or this [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw).
 
 ### Files in data.zip
 + entity2id.txt: all entities and corresponding ids, one per line.
