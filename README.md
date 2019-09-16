@@ -18,7 +18,18 @@ We proposed a nEM framework to deal with the noisy-label problem. We manually la
 </p>
 
 ## Dataset
-The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset in addition to our manually labeled test set. You can download them from this [Google Drive link](aaa.com) or [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw).
+The Riedel dataset (Riedel et al., 2010) used in this paper is publicly available. We provide the processed version of this dataset in addition to our manually labeled test set. You can download them from this [Google Drive link](aaa.com) or this [Baidu Cloud link](https://pan.baidu.com/s/1anEw7xjmFZo6gaRWP0gpVw).
+
+### Files in data.zp
++ train.txt: training file, format (fb_mid_e1, fb_mid_e2, e1_name, e2_name, relation, sentence).
+
++ test.txt: test file, same format as train.txt.
+
++ entity2id.txt: all entities and corresponding ids, one per line.
+
++ relation2id.txt: all relations and corresponding ids, one per line.
+
++ vec.bin: the pre-train word embedding file
 
 ## References
 [Lin et al., 2016] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. Neural Relation Extraction with Selective Attention over Instances. In Proceedings of ACL.
