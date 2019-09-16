@@ -69,7 +69,9 @@ The models are implemented using [Pytorch](https://pytorch.org/).
 Please first download the __data.zip__ file from the above given links. Then unzip the data.zip (the entire directory) to the model's directory.
 
 + Training: run __sh run_RE.sh__ for baseline models or __sh run_EM.sh__ for nEM models.
-+ Test: modify the __--run_mode train__ in the corresponding shell file to __--run_mode test__ and run the shell file.
++ Test: modify the __--run_mode train__ in the corresponding shell file to __--run_mode test__ and run.
+
+Please refer to the __main.py__ file for detailed parameters configurations.
 
 ## References
 
