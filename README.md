@@ -73,7 +73,7 @@ Please first download the __data.zip__ file from the above given links. Then unz
 
 Please refer to the __main.py__ file for detailed parameters' configurations.
 
-You are welcomed to contact us if you are interested in our work or you have any questions about it. Please cantact the authors with this E-mail: chenjf@act<dot>buaa<dot>edu<dot>cn
+You are welcomed to contact us if you are interested in our work or you have any questions about it. Please cantact the authors with this E-mail: chenjf@act[dot]buaa[dot]edu[dot]cn
 
 ## References
 
