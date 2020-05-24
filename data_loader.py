@@ -49,7 +49,9 @@ class DataLoader():
 								flip_count += 1
 								fliped.append(j)
 						else:
-							fliped.append(j)
+							if np.random.binomial(1, flip)==0:
+								flip_count += 1
+								fliped.append(j)
 					flip_labels.append(np.asarray(fliped, dtype=np.int_))
 				train_labels = flip_labels
 				np.savez(os.path.join(data_dir, 'flip_%f'%flip), origin_labels=origin_labels, flip_labels=flip_labels, flip_count=flip_count)
